@@ -1,9 +1,10 @@
-____   ___  ____ _____   ____   ____    _    _   _ _   _ _____ ____  
+```
+  ____   ___  ____ _____   ____   ____    _    _   _ _   _ _____ ____  
  |  _ \ / _ \|  _ \_   _| / ___| / ___|  / \  | \ | | \ | | ____|  _ \ 
  | |_) | | | | |_) || |   \___ \| |     / _ \ |  \| |  \| |  _| | |_) |
  |  __/| |_| |  _ < | |    ___) | |___ / ___ \| |\  | |\  | |___|  _ < 
  |_|    \___/|_| \_\|_|   |____/ \____/_/   \_\_| \_|_| \_|_____|_| \_\
-
+```
 # PortScanner
 
 A Python-based interactive command-line interface for **Nmap**. This tool simplifies the process of performing various network scans including service detection, OS fingerprinting, and comprehensive analysis through an easy-to-use menu.
