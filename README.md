@@ -39,10 +39,15 @@ Before running the tool, ensure you have the following installed:
 Run the script with root privileges (required for certain Nmap scans like OS detection):
 
 sudo python3 PortScanner.py
+
 Menu Options:
+
 Fast Scan: Basic port scanning.
 
 Service Scan: Identify running services and their versions.
+
 Operating System Info: Fingerprint the target OS.
+
 All Of Them: Perform all of the above scans simultaneously.
+
 Type q or press Ctrl+C to exit.
